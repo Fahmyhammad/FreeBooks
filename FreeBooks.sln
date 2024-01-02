@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBook", "WebBook\WebBook.csproj", "{8FFA1649-511A-41A9-B45C-5212A25F62DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domin", "Domin\Domin.csproj", "{87B19553-8FAE-4605-B3F9-09EB3625A7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infarstuructre", "Infarstuructre\Infarstuructre.csproj", "{894AA31C-7504-4B9A-B765-35FAF9E37E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFA1649-511A-41A9-B45C-5212A25F62DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFA1649-511A-41A9-B45C-5212A25F62DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFA1649-511A-41A9-B45C-5212A25F62DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFA1649-511A-41A9-B45C-5212A25F62DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B19553-8FAE-4605-B3F9-09EB3625A7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B19553-8FAE-4605-B3F9-09EB3625A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B19553-8FAE-4605-B3F9-09EB3625A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B19553-8FAE-4605-B3F9-09EB3625A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894AA31C-7504-4B9A-B765-35FAF9E37E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894AA31C-7504-4B9A-B765-35FAF9E37E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894AA31C-7504-4B9A-B765-35FAF9E37E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894AA31C-7504-4B9A-B765-35FAF9E37E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EEFB0E-890E-4CD1-AC40-A106D53CF9F3}
+	EndGlobalSection
+EndGlobal
